@@ -5,4 +5,9 @@ public class FirstTest {
         System.out.println("hello git");
 
     }
+    public void test1(){
+        int a =3;
+        a += 10;
+        System.out.println(a);
+    }
 }
