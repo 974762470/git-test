@@ -10,4 +10,7 @@ public class FirstTest {
         a += 10;
         System.out.println(a);
     }
+    public void test2(){
+        System.out.println("hello");
+    }
 }
